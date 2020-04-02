@@ -1,2 +1,2 @@
-# drako
-123
+# discordapp-heroku
+A bot running on node js discord
